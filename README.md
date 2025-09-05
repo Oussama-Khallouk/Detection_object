@@ -18,11 +18,6 @@ detection_objet/
 
 
 ## ⚡ Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/detection_objet.git
-   cd detection_objet
-
 
 Install dependencies:
 
@@ -35,5 +30,6 @@ wget https://pjreddie.com/media/files/yolov4.weights
 
 
 ▶️ Usage
+
 
 Just save a picture inside the folder and named input.png and run the code with any compiler
