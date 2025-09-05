@@ -32,4 +32,5 @@ wget https://pjreddie.com/media/files/yolov4.weights
 ▶️ Usage
 
 
-Just save a picture inside the folder and named input.png and run the code with any compiler
+Just save a picture inside the folder and named input.jpg and run the code with any compiler
+
